@@ -5,4 +5,4 @@ Automatically firewall malicious IPs by adding a rule to your Windows Firewall t
 Written in Python for Windows for server operators.
 
 # Attribution:
-- Uses [AbuseIPdb](https://abuseipdb.com), [VirusTotal](https://virustotal.com), [AlienVault](https://otx.alienvault.com), [SpamHaus](https://spamhaus.org), [Shodan](https://shodan.io), and [GreyNoise](https://greynoise.io)
+- Uses [Watchdog](https://github.com/gorakhargosh/watchdog) for log file monitoring, [AbuseIPdb](https://abuseipdb.com), [VirusTotal](https://virustotal.com), [AlienVault](https://otx.alienvault.com), [SpamHaus](https://spamhaus.org), [Shodan](https://shodan.io), and [GreyNoise](https://greynoise.io) for malicious IP checking.
