@@ -1,6 +1,6 @@
 # AutoFirewall
 Automatically firewall malicious IPs by adding a rule to your Windows Firewall to block the IP.
-- Must be ran as admin to block the IP.
+- Must be ran as admin to block the IP or whatever privilege is necessary on your machine to run **netsh**.
 
 Written in Python for Windows for server operators.
 
