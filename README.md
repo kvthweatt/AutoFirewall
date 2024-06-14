@@ -1,4 +1,4 @@
-# AutoFirewall
+# Auto Firewall
 Automatically firewall malicious IPs by adding a rule to your Windows Firewall to block the IP.
 - Must be ran as admin to block the IP or whatever minimum privilege is necessary on your machine to run **netsh**
 
